@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AplicacionWebCRUD.iml" filepath="$PROJECT_DIR$/.idea/modules/AplicacionWebCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AplicacionWebCRUD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AplicacionWebCRUD_main.iml" group="AplicacionWebCRUD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AplicacionWebCRUD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AplicacionWebCRUD_test.iml" group="AplicacionWebCRUD" />
+    </modules>
+  </component>
+</project>
